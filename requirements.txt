@@ -1,0 +1,4 @@
+pytube
+pydub
+customtkinter
+yt-dlp
